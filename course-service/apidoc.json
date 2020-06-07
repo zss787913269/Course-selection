@@ -1,0 +1,14 @@
+{
+    "name": "student_course",
+    "version": "1.0.0", 
+    "description": "学生选课系统API文档", 
+    "title": "studentCourse API",  
+    "url" : "http://localhost:3001/", 
+    "sampleUrl": "http://localhost:3001/v1",
+    "forceLanguage":"zh-cn",
+    "template": {
+      "withCompare": true,
+      "withGenerator": true
+    }
+  
+  }
