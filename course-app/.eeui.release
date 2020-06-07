@@ -1,0 +1,8 @@
+{
+	"name": "course",
+	"appName": "学生选课系统",
+	"applicationID": "app.eeui.demo",
+	"bundleIdentifier": "app.eeui.demo",
+	"release": "2.3.4",
+	"location": "eeui"
+}

@@ -1,0 +1,24 @@
+{
+	"dependencies": {
+		"eeui/network": {
+			"requireName": "eeui/network",
+			"name": "eeui/network",
+			"url": "http://eeui.cdn.gmjfw.com/uploads/plugins/1/network/fa3f04b166c78aac3b20e45a7398e6bd.zip"
+		},
+		"eeui/contact": {
+			"requireName": "eeui/contact",
+			"name": "eeui/contact",
+			"url": "http://eeui.cdn.gmjfw.com/uploads/plugins/1/contact/ae697f30cab10b55cdcc3c562142d47a.zip"
+		},
+		"eeui/geolocation": {
+			"requireName": "eeui/geolocation",
+			"name": "eeui/geolocation",
+			"url": "http://eeui.cdn.gmjfw.com/uploads/plugins/1/geolocation/2b10f2336bf4efac065f4d0654b657c6.zip"
+		},
+		"eeui/picture": {
+			"requireName": "eeui/picture",
+			"name": "eeui/picture",
+			"url": "http://eeui.cdn.gmjfw.com/uploads/plugins/1/picture/354592a3c8277754c1e8db7b3e6e6760.zip"
+		}
+	}
+}

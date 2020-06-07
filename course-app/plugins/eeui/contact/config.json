@@ -1,0 +1,5 @@
+{
+	"desc": "获取联系人",
+	"requireFormatName": "eeuiContact",
+	"requireName": "eeui/contact"
+}
